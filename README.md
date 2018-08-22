@@ -89,7 +89,7 @@ class ReactUsersAvathar extends Component {
             <UserAvatar 
                   avatharBgColor="#fff"
                   avatharTextColor="green"
-                  name="full name"
+                  name="Thamu Nithi"
                   border="5px solid #474d56"
                   ifBorder
                   imgHeight="150px"
