@@ -1,6 +1,6 @@
 {
   "name": "react-users-avatar",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Avatar component for react with image and without image, With title For example Full name",
   "main": "build/index.js",
   "peerDependencies": {
