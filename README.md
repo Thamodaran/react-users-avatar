@@ -6,7 +6,7 @@ npm install react-users-avatar --save
 ```
 
 ## Demo
-![Demo](https://github.com/Thamodaran/react-users-avatar/blob/master/src/react-avatar-2018-08-21_18.31.51.mkv)
+![Demo](https://github.com/Thamodaran/react-users-avatar/blob/master/demo.gif)
 
 ## Usage
 ```
