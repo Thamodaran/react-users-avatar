@@ -6,7 +6,6 @@ npm install react-users-avatar --save
 ```
 
 ## Demo
-![Demo](https://github.com/Thamodaran/react-users-avatar/raw/master/demo.gif)
 <img src="https://github.com/Thamodaran/react-users-avatar/raw/master/demo.gif" alt="demo" width="100%" />
 
 ## Usage
