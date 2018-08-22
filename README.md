@@ -87,9 +87,9 @@ class ReactUsersAvathar extends Component {
     render() {
         return (
             <UserAvatar 
-                  avatharBgColor="red"
-                  avatharTextColor="#fff"
-                  name="Nithi"
+                  avatharBgColor="#fff"
+                  avatharTextColor="green"
+                  name="full name"
                   border="5px solid #474d56"
                   ifBorder
                   imgHeight="150px"
