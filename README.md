@@ -4,6 +4,10 @@
 npm install react-users-avatar --save
 
 ```
+
+## Demo
+![Demo](https://github.com/Thamodaran/react-users-avatar/blob/master/src/react-avatar-2018-08-21_18.31.51.mkv)
+
 ## Usage
 ```
 React users avatar example with image and border
@@ -107,5 +111,4 @@ class ReactUsersAvathar extends Component {
 | ifBorder | Boolean | true |
 | imgHeight | String | 150px |
 | imgWidth | String | 150px |
-# react-users-avatar
 # react-users-avatar

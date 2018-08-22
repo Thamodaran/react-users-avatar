@@ -30,6 +30,10 @@
     "name": "Thamodaran K",
     "email": "kthamodaran@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thamodaran/react-users-avatar"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
