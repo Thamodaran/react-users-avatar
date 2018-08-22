@@ -1,0 +1,42 @@
+{
+  "name": "react-users-avatar",
+  "version": "0.0.3",
+  "description": "Avatar component for react with image and without image, With title For example Full name",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "avatar",
+    "user",
+    "circle",
+    "image",
+    "border",
+    "radius",
+    "title",
+    "background"
+  ],
+  "author": {
+    "name": "Thamodaran K",
+    "email": "kthamodaran@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
